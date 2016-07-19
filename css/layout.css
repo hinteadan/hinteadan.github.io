@@ -293,6 +293,7 @@ header #nav-wrap {
    position: relative;
    margin: 0;
    padding: 0;
+   min-height: 90px;
 }
 #latest-article p { line-height: 42px; }
 #latest-article .continue a.button {
